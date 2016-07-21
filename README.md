@@ -1,2 +1,2 @@
 # hello-world
-This repository is only sample of test.
+This repository is only example.
